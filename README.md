@@ -5,6 +5,8 @@ Aplikacija koristi openweathermap API.
 
 Fokus aplikacije je na mogućnostima Vue.js-a.
 
+Tehnologije: Vue.js, SASS
+
 ## Build Setup
 
 ``` bash
