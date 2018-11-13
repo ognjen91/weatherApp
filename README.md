@@ -1,6 +1,9 @@
 # vrijeme2
 
-> Drugi pokušaj pravljenja aplikacija za prikaz vremena
+> Drugi (uspješan) pokušaj pravljenja aplikacija za prikaz vremena.
+Aplikacija koristi openweathermap API.
+
+Fokus aplikacije je na mogućnostima Vue.js-a.
 
 ## Build Setup
 
